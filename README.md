@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Kuaishou
-- 🌱 I’m currently learning Database Systems
+- 🔭 I’m currently working on Tencent Timi L1
+- 🌱 I’m currently learning Distrubuted Systems
 - 👯 I’m looking to collaborate on Self-learning
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about anything about CS
