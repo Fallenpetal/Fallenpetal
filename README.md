@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Tencent Timi L1
+- 🔭 I’m currently working on Alibaba AIDC-AliExpress Ads Engneering
 - 🌱 I’m currently learning Distrubuted Systems
 - 👯 I’m looking to collaborate on Self-learning
 - 🤔 I’m looking for help with nothing
