@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Alibaba AIDC-AliExpress Ads Engneering
-- 🌱 I’m currently learning Distrubuted Systems
+- 🔭 I’m currently working on Alibaba AIDC-AliExpress Ads Infra Engneering
+- 🌱 I’m currently learning machine learning systems
 - 👯 I’m looking to collaborate on Self-learning
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about anything about CS
